@@ -8,29 +8,27 @@ video :-
 <table>
 
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/55824155/114508228-bf422800-9c51-11eb-9341-561947d1f706.jpg" width=270 height=480></td>
-    <td><img src="https://user-images.githubusercontent.com/55824155/114508245-c406dc00-9c51-11eb-944f-1f4137c86d35.jpg" width=270 height=480></td>
-    <td><img src="https://user-images.githubusercontent.com/55824155/114508264-c79a6300-9c51-11eb-8a2d-6685723992bb.png" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/55824155/114561991-b66e4800-9c8b-11eb-9b2d-6f2adf10b5af.jpg" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/55824155/114562002-ba01cf00-9c8b-11eb-99eb-93dc914e0e16.jpg" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/55824155/114562018-bcfcbf80-9c8b-11eb-98de-d02ae1cfcbf2.jpg" width=270 height=480></td>
   </tr>
     <tr>
-    <td><img src="https://user-images.githubusercontent.com/55824155/114508286-cc5f1700-9c51-11eb-81ef-418d0f0efe72.jpg" width=270 height=480></td>
-    <td><img src="https://user-images.githubusercontent.com/55824155/114508296-cf5a0780-9c51-11eb-9172-833ff0eeec78.png" width=270 height=480></td>
-    <td><img src="https://user-images.githubusercontent.com/55824155/114508305-d2ed8e80-9c51-11eb-9f73-8217c8929235.jpg" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/55824155/114562027-bec68300-9c8b-11eb-85b9-cf5361d3797c.jpg" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/55824155/114562049-c38b3700-9c8b-11eb-9e32-8b55037c56a8.jpg" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/55824155/114562080-cab24500-9c8b-11eb-8b1a-32029bf48b53.jpg" width=270 height=480></td>
   </tr>
     <tr>
-    <td><img src="https://user-images.githubusercontent.com/55824155/114508318-d6811580-9c51-11eb-9bb1-876a14541706.png" width=270 height=480></td>
-    <td><img src="https://user-images.githubusercontent.com/55824155/114508327-d8e36f80-9c51-11eb-861e-e70c9b280f2c.jpg" width=270 height=480></td>
-    <td><img src="https://user-images.githubusercontent.com/55824155/114523677-1f40ca80-9c62-11eb-9e8a-77be5f727391.png" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/55824155/114562094-cede6280-9c8b-11eb-8245-8d2a86ec79c3.jpg" width=270 height=480></td>
   </tr>
  </table>
 
 # Menu
-▶️WelcomePage     
-▶️LoginPage         
-▶️HomePage     
-▶️ContactPage   
-▶️PaymentPage    
-▶️Transaction DetailPage 
+▶️WelcomePage      
+▶️LoginPage          
+▶️HomePage      
+▶️ContactPage    
+▶️PaymentPage     
+▶️Transaction DetailPage  
 
 ## Getting Started
 
