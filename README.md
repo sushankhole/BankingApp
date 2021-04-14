@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-video :- 
+video :- https://youtu.be/3oyVP9Cik6k
 
 # screenshots :- 
 <table>
